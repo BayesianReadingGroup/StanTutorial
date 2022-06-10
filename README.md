@@ -10,6 +10,6 @@ Run the Binomial model for the biased coin data: <code>Rscript run_example.r</co
 
 The libraries we will be using are:
 
-* *Rstan*: sampling posteriors with HMC
-* *Tidyverse*: data manipulation and plotting
-* *Bayesplot*: plotting
+* *[Rstan](https://mc-stan.org/users/interfaces/rstan)* - sampling posteriors with HMC
+* *[Tidyverse](https://www.tidyverse.org/)* -  data manipulation and plotting
+* *[Bayesplot](http://mc-stan.org/bayesplot/)* -  plotting
